@@ -1,5 +1,4 @@
 # Meeting-Schedule-Conflict-Detection
-# Meeting Schedule Conflict Detection System
 
 ## Introduction
 
